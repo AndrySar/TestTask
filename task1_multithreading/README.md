@@ -35,5 +35,5 @@ java -jar target/*-jar-with-dependencies.jar
 
 ## Тесты
 
-`ConverterServiceTest` - тест корректной работы конвертера из количественных английских числительных "one", "two" в числа 1, 2
-`SynchronizedContainerTest` - тест синхронизированного контейнера
+``ConverterServiceTest`` - тест корректной работы конвертера из количественных английских числительных "one", "two" в числа 1, 2
+``SynchronizedContainerTest`` - тест синхронизированного контейнера
